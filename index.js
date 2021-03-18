@@ -41,7 +41,7 @@ function statistics() {
 				if (value.BSN.indexOf(district) === 0) {
 					++valueCount;
 					
-					var vAktuelleBandbreite = parseInt(value.AktuelleBandbreite, 10);
+					var vAktuelleBandbreite = parseInt(value.LetzteBandbreite, 10);
 					if (!isNaN(vAktuelleBandbreite)) {
 						AktuelleBandbreite += vAktuelleBandbreite;
 						++cAktuelleBandbreite;
@@ -204,11 +204,11 @@ ddj.autostart.onAddMarker(function(marker, value) {
 
 	var data = '';
 	if (currentType === 'today') {
-		data = value.AktuelleBandbreite;
+		data = value.LetzteBandbreite;
 	} else if (currentType === 'telekom') {
 		data = value.TelekomDownload;
 	} else if (currentType === 'diff') {
-		data = Math.max(0, parseInt(value.TelekomDownload, 10) - parseInt(value.AktuelleBandbreite, 10));
+		data = Math.max(0, parseInt(value.TelekomDownload, 10) - parseInt(value.LetzteBandbreite, 10));
 	} else if (currentType === 'perHead') {
 	}
 
