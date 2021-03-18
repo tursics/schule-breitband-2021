@@ -20,7 +20,7 @@ function convertRemToPixels(rem) {
 function statistics() {
 	var data = ddj.data.get();
 	if (data) {
-		var districts = ['01','02','03','04','05','06','07','08','09','10','11','12',''];
+		var districts = ['01','02','03','04','05','06','07','08','09','10','11','12','bs',''];
 
 		for (d = 0; d < districts.length; ++d) {
 			var district = districts[d];
@@ -86,6 +86,8 @@ function handleStepEnter(response) {
 
 		if (currentDistrict === 'all') {
 			currentDistrict = '';
+		} else if (currentDistrict === 'Berufsschule') {
+			currentDistrict = 'bs';
 		}
 
 		if (dataLoaded) {
@@ -193,7 +195,11 @@ ddj.autostart.onDone(function() {
 
 ddj.autostart.onAddMarker(function(marker, value) {
 	if (value.BSN.indexOf(currentDistrict) !== 0) {
-		return false;
+		if ((currentDistrict === 'bs') && (value.BSN.indexOf('B') === 2)) {
+			// hit
+		} else {
+			return false;
+		}
 	}
 
 	var data = '';

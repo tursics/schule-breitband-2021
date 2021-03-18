@@ -1,4 +1,9 @@
 BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modified,LetzterTarif,LetzteBandbreite,Latest,LatestSource,Standort,Straße,PLZ,lat,lng,TelekomTarif,TelekomDownload,TelekomUpload,TelekomLTE
+01B01,01B01,"OSZ Banken, Immobilien und Versicherungen",mail@osz-biv.de,http://www.osz-biv.de,,,,,1000,1000,6. März 2021,,Hauptstandort,Alt-Moabit 10,10557,52.5237823,13.3577818,,,,
+01B02,01B02,Staatliche Technikerschule Berlin,info@technikerschule-berlin.de,https://www.technikerschule-berlin.de,,,,,1000,1000,6. März 2021,,Hauptstandort,Bochumer Str. 8,10555,52.5226965,13.3380649,,,,
+01B03,01B03,"OSZ Kommunikations-, Informations- und Medientechnik",verwaltung@oszkim.de,http://www.oszkim.de,,,,,1000,1000,6. März 2021,,Hauptstandort,Osloer Str. 23-26,13359,52.5567158,13.3793791,,,,
+01B04,01B04,OSZ Gesundheit I,sekretariat@osz-gesundheit.de,http://www.osz-gesundheit.de,,,,,1000,1000,6. März 2021,,Hauptstandort,Schwyzer Str. 6-8,13349,52.55862,13.35463,,,,
+01B05,01B05,Staatliche Wirtschaftsfachschule für Hotellerie und Gastronomie Berlin (HOFA),info@hotelfachschule-berlin.de,http://www.hotelfachschule-berlin.de,,,,,1000,1000,6. März 2021,,Hauptstandort,Niederwallstr. 6-7,10117,52.51238,13.398,,,,
 01G01,01G01,Grundschule am Arkonaplatz,sekretariat@arkonaplatz.schule.berlin.de,http://www.grundschuleamarkonaplatz.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Ruppiner Str. 47-48,10115,52.53684,13.40039,MagentaZuhause via Funk,50 MBit/s,10 MBit/s,0
 01G02,01G02,Papageno-Grundschule,sekretariat@papageno-grundschule.de,http://www.papageno-grundschule.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Bergstr. 58,10115,52.532833,13.391048,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 01G04,01G04,Kastanienbaum-Grundschule,sekretariat@kastanienbaumgrundschule.de,http://www.kastanienbaumgrundschule.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Gipsstr. 23 A,10119,52.52678,13.4018,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
@@ -55,6 +60,11 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 01Y09,01Y09,Diesterweg-Gymnasium,sekretariat@diesterweg-gymnasium-berlin.de,http://www.diesterweg-gymnasium-berlin.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Böttgerstraße 2,13357,52.550012,13.378338,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 01Y11,01Y11,Max-Planck-Gymnasium,sekretariat@mpg-berlin.de,http://www.mpg-berlin.de,,DSL 16000,16,September 2019,250 Mbit/s,250,6. Januar 2021,Schule,Hauptstandort,Singerstraße 8a,10179,52.515983,13.422886,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 01Y12,01Y12,Gymnasium Tiergarten,sekretariat@gymnasium-tiergarten.de,http://gymnasium-tiergarten.de,,VDSL 50,50,September 2019,,,,,Hauptstandort,Altonaer Straße 26,10555,52.51935,13.3394,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
+02B01,02B01,August-Sander-Schule,schulbuero@august-sander-schule.de,http://www.august-sander-schule.de,,,,,1000,1000,6. März 2021,,Hauptstandort,Naglerstr. 1-3,10245,52.5027351,13.4504815,,,,
+02B02,02B02,Hans-Böckler-Schule (OSZ Konstruktionsbautechnik),info@osz-kt.de,http://www.osz-kt.de,,,,,1000,1000,6. März 2021,,Hauptstandort,Lobeckstr. 76,10969,52.49909,13.40309,,,,
+02B03,02B03,Modeschule Berlin (OSZ Bekleidung und Mode),info@modeschule-berlin.de,https://www.modeschule-berlin.de/,,,,,1000,1000,6. März 2021,,Hauptstandort,Kochstr. 9,10969,52.50604,13.38927,,,,
+02B04,02B04,OSZ Handel 1,sekretariat-schulleitung@oszhandel1.de,http://www.oszhandel.de,,,,,1000,1000,6. März 2021,,Hauptstandort,Wrangelstr. 98,10997,52.5010196,13.436563,,,,
+02B05,02B05,Jane-Addams-Schule (OSZ Sozialwesen),kontakt@osz-soz.de,http://www.osz-soz.de,,,,,16,16,6. März 2021,,Hauptstandort,Straßmannstr. 14-16,10249,52.52161,13.44855,,,,
 02G01,02G01a,Spartacus-Grundschule,schulleitung@grundschule-friedrichshain.de,http://www.grundschule-friedrichshain.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Friedenstr. 40-45,10249,52.52106,13.43582,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 02G01,02G01b,Spartacus-Grundschule,,,,,,September 2019,,,,,Filiale,Pufendorfstraße,10249,52.521224,13.438977,MagentaZuhause S,16 MBit/s,"2,4 MBit/s",300 MBit/s
 02G02,02G02a,Hausburg-Grundschule,sek@hausburg-gs.schule-berlin-fk.de,http://www.hausburgschule.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Hausburgstr. 20,10249,52.524208,13.454324,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
@@ -120,6 +130,15 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 02Y07,02Y07a,Robert-Koch-Gymnasium,Koch-Gymnasium@web.de,http://www.Robert-Koch-Oberschule.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Dieffenbachstr. 60,10967,52.493088,13.415334,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 02Y07,02Y07b,Robert-Koch-Gymnasium,,,,DSL 16000,16,September 2019,,,,,2. Anschluss,,,52.493019,13.416159,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 02Y08,02Y08a,Hermann-Hesse-Gymnasium,kontakt@hesse-kreuzberg.de,http://www.hesse-kreuzberg.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Böckhstr. 16,10967,52.493579,13.419151,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
+03B02,03B02,Berufliche Schule für Sozialwesen Pankow,sekretariat@schule-sozialwesen-pankow.de,http://www.schule-sozialwesen-pankow.de,,,,,1000,1000,6. März 2021,,Hauptstandort,Erbeskopfweg 6-10,13158,52.59409,13.40031,,,,
+03B04,03B04a,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Buschallee 23a,,,,,,,
+03B04,03B04b,,,,,,,,1000,1000,6. März 2021,,Filiale,Darßer Str. 97,,,,,,,
+03B06,03B06,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,"Hermann-Hesse-Str. 34,36",,,,,,,
+03B07,03B07a,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Mandelstr. 6-8,,,,,,,
+03B07,03B07b,,,,,,,,1000,1000,6. März 2021,,Filiale,Pappelallee 31-32,,,,,,,
+03B07,03B07c,,,,,,,,1000,1000,6. März 2021,,Filiale,Driesener Str. 22,,,,,,,
+03B08,03B08,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Erich-Weinert-Str. 103,,,,,,,
+03B10,03B10,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Gustav-Adolf-Str. 66,,,,,,,
 03G01,03G01,Schule am Hamburger Platz (Grundschule),info@schule-am-hamburger-platz.de,http://www.schule-am-hamburger-platz.de,,VDSL 25 IP,25,September 2019,,,,,Hauptstandort,Gustav-Adolf-Str. 21,13086,52.55381,13.43681,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 03G02,03G02,Heinrich-Roller-Grundschule,sekretariat@roller.schule.berlin.de,http://www.Heinrich-Roller-Grundschule.de,,VDSL100 splitterlos,100,September 2019,,,,,Hauptstandort,Heinrich-Roller-Str. 18,10405,52.53064,13.42364,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 03G03,03G03,Grundschule am Kollwitzplatz,Sekretariat@gsak.schule.berlin.de,http://www.gs-am-Kollwitzplatz.de,,VDSL 50 IP,50,September 2019,,,,,Hauptstandort,Knaackstr. 67,10435,52.53768,13.41489,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
@@ -203,6 +222,16 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 03Y15,03Y15b,Max-Delbrück-Gymnasium,,,,,,September 2019,,,,,Filiale,Dietzgenstraße 47,13156,52.584750,13.401286,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 03Y16,03Y16,Robert-Havemann-Gymnasium,schulleitung@rhgym.de,http://www.robert-havemann-gymnasium.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Achillesstr. 79,13125,52.615393,13.494218,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 03Y17,03Y17,Gymnasium am Europasportpark,sekretariat@gesp-berlin.de,http://www.gesp-berlin.de,,DSL 16.000 RAM IP,16,September 2019,,,,,Hauptstandort,Conrad-Blenkle-Str. 34,10407,52.534329,13.447008,MagentaZuhause S,16 MBit/s,"2,4 MBit/s",300 MBit/s
+04B01,04B01,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Loschmidtstr. 19,,,,,,,
+04B02,04B02,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Danckelmannstr. 25-28,,,,,,,
+04B03,04B03,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,"Gierkeplatz 1,3",,,,,,,
+04B04,04B04,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Bismarckstr. 20,,,,,,,
+04B05,04B05a,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Halemweg 24,,,,,,,
+04B05,04B05b,,,,,,,,1000,1000,6. März 2021,,Filiale,Klixstr. 7,,,,,,,
+04B06,04B06a,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,"Prinzregentenstr. 32,35",,,,,,,
+04B06,04B06b,,,,,,,,1000,1000,6. März 2021,,Filiale,Prinzregentenstr. 60,,,,,,,
+04B07,04B07,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Schillerstr. 120,,,,,,,
+04B08,04B08,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Prinzregentenstr. 60,,,,,,,
 04A04,04A04,Charlotte-Wolff-Kolleg,Leitung@charlotte-wolff-kolleg.de,http://www.charlotte-wolff-kolleg.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Pestalozzistraße 40/41,10627,52.508088,13.303451,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 04A06,04A06,Peter-A.-Silbermann-Schule,info@abendgymnasium.de,http://www.abendgymnasium.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Blissestraße 22,10713,52.484770,13.319447,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 04G01,04G01,Eichendorff-Grundschule,sekretariat@eichendorff.schule.berlin.de,http://www.eichendorff-grundschule-berlin.de,,DSL 16000,16,September 2019,SVDSL 250,250,21. Januar 2021,Bezirksstadträtin Charlottenburg-Wilmersdorf von Berlin,Hauptstandort,Goethestr. 19,10625,52.50921,13.31305,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
@@ -262,6 +291,10 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 04Y09,04Y09,Walther-Rathenau-Gymnasium,sekretariat@wrs-berlin.de,http://www.wrs-berlin.de,,DSL 16000,16,September 2019,SVDSL 175,175,21. Januar 2021,Bezirksstadträtin Charlottenburg-Wilmersdorf von Berlin,Hauptstandort,Herbertstr. 2-6,14193,52.49143,13.28135,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
 04Y10,04Y10,Marie-Curie-Gymnasium,schulleitung@mcg-berlin.de,http://www.mcg-berlin.de,,VDSL 50,50,September 2019,SVDSL 250,250,21. Januar 2021,Bezirksstadträtin Charlottenburg-Wilmersdorf von Berlin,Hauptstandort,Weimarische Str. 21,10715,52.480119,13.324748,MagentaZuhause XL,250 MBit/s,40 MBit/s,0
 04Y11,04Y11,Goethe-Gymnasium,info.goethe-gymnasium@t-online.de,,,DSL 16000,16,September 2019,VDSL 25,25,21. Januar 2021,Bezirksstadträtin Charlottenburg-Wilmersdorf von Berlin,Hauptstandort,Gasteiner Str. 23,10717,52.48759,13.3225,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
+05B01,05B01,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Goldbeckweg 8-14,,,,,,,
+05B02,05B02a,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Nonnendammallee 140-143,,,,,,,
+05B02,05B02b,,,,,,,,1000,1000,6. März 2021,,Filiale,Nauener Str. 13,,,,,,,
+05B02,05B02c,,,,,,,,1000,1000,6. März 2021,,Filiale,Am Fort 48d,,,,,,,
 05G01,05G01,Ernst-Ludwig-Heim-Grundschule,elhg@web.de,,,1.000 Mbit/s,1000,7. Oktober 2020,,,,,,Grunewaldstr. 8,13597,52.5304,13.20672,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 05G02,05G02,Grundschule am Eichenwald,Grundschule_am_Eichenwald@t-online.de,,,500 Mbit/s,500,7. Oktober 2020,,,,,,Gaismannshofer Weg 2,13587,52.558423,13.199146,MagentaZuhause M,50 MBit/s,10 MBit/s,300 MBit/s
 05G04,05G04,Klosterfeld-Grundschule,05G04@05G04.schule.berlin.de,http://www.klosterfeld-grundschule.de,,z.Z. kein geeignetes Kabelnetz,0,7. Oktober 2020,DSL 16000,16,10. Dezember 2020,Schul- und Sportamt Spandau von Berlin,,Seegefelder Str. 125,13583,52.53861,13.17968,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
@@ -309,6 +342,10 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 05Y03,05Y03,Hans-Carossa-Gymnasium,Sekretariat@hans-carossa-gymnasium.de,http://www.hcg-berlin.de,,1.000 Mbit/s,1000,7. Oktober 2020,,,,,,Am Landschaftspark Gatow 40,14089,52.47244,13.13028,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 05Y04,05Y04,Carl-Friedrich-von-Siemens-Gymnasium,mail@cfvsiemens.de,http://www.c-f-v-siemens-og.de,,500 Mbit/s,500,7. Oktober 2020,,,,,,Jungfernheideweg 79,13629,52.54559,13.26983,MagentaZuhause S,6 MBit/s,"2,4 MBit/s",300 MBit/s
 05Y05,05Y05,Lily-Braun-Gymnasium,e-post@lily-braun-gymnasium.de,http://www.lily-braun-gymnasium.de,,500 Mbit/s,500,7. Oktober 2020,,,,,,Münsingerstr. 2,13597,52.538567,13.199029,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
+06B01,06B01,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Hartmannsweilerweg 29,,,,,,,
+06B02,06B02,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Lippstädter Str. 9-11,,,,,,,
+06B03,06B03,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Florastr. 13,,,,,,,
+06B04,06B04,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Immenweg 6-10,,,,,,,
 06G01,06G01,Nord-Grundschule,sekretariat@nord-grund.schule.berlin.de,http://www.nordgrundschule.de,,nicht bekannt,-,September 2019,,,,,Hauptstandort,Potsdamer Str. 7,14163,52.435951,13.25558,MagentaZuhause via Funk,50 MBit/s,10 MBit/s,0
 06G02,06G02,Süd-Grundschule,info@sued-grundschule.de,http://www.süd-grundschule-berlin.de,,nicht bekannt,-,September 2019,,,,,Hauptstandort,Claszeile 56,14165,52.4189,13.25839,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 06G03,06G03a,Johannes-Tews-Grundschule,schulleitung@jtg-berlin.de,http://www.johannes-tews-grundschule.de,,sonstige,-,September 2019,,,,,Hauptstandort,Wasgenstr. 50,14129,52.43162,13.21262,MagentaZuhause M,50 MBit/s,10 MBit/s,300 MBit/s
@@ -322,7 +359,7 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 06G10,06G10,Grundschule am Buschgraben,kontakt@grundschuleambuschgraben.de,http://www.grundschuleambuschgraben.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Ludwigsfelder Str. 43-47,14165,52.42192,13.242834,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 06G12,06G12,Quentin-Blake-Grundschule,schulleitung@quentin-blake.schule.berlin.de,http://www.quentin-blake-europe-school.de,,< DSL 16000,6,September 2019,,,,,Hauptstandort,Hüttenweg 40,14195,52.454097,13.27055,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 06G14,06G14,Sachsenwald-Grundschule,sekretariat@sachsenwald.schule.berlin.de,http://www.sachsenwald-grundschule.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Sachsenwaldstr. 20-21,12157,52.46151,13.3354,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
-06G15,06G15,Dunant-Grundschule,sekr@dunant-grundschule.de,http://www.dunant-grundschule.de,,< DSL 16000,6,September 2019,,,,,Hauptstandort,Gritznerstr. 19-23,12163,52.46486,13.31818,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
+06G15,06G15,Dunant-Grundschule,sekr@dunant-grundschule.de,http://www.dunant-grundschule.de,,< DSL 16000,6,September 2019,VDSL 100,100,7. März 2021,Eltern,Hauptstandort,Gritznerstr. 19-23,12163,52.46486,13.31818,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
 06G16,06G16,Rothenburg-Grundschule,schulleitung@rothenburg-grundschule.de,http://www.rothenburg-grundschule.de,,VDSL 25,25,September 2019,,,,,Hauptstandort,Rothenburgstr. 18,12165,52.45398,13.31302,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
 06G17,06G17,Grundschule am Insulaner,sekretariat.gsai@t-online.de,http://www.grundschule-am-insulaner.de,,VDSL 50,50,September 2019,,,,,Hauptstandort,Hanstedter Weg 11-15,12169,52.45185,13.34956,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 06G18,06G18,Athene-Grundschule,info@athene-grundschule.de,http://www.athene-grundschule.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Curtiusstr. 37,12205,52.440565,13.290632,MagentaZuhause L,100 MBit/s,40 MBit/s,0
@@ -375,6 +412,8 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 06Y12,06Y12,Willi-Graf-Gymnasium,sekretariat@willi-graf-os.de,http://www.willi-graf-gymnasium.de,,VDSL 50,50,September 2019,,,,,Hauptstandort,Ostpreußendamm 166,12207,52.43469,13.32096,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
 06Y13,06Y13,Gymnasium Steglitz,sekretariat@gymnasiumsteglitz.de,http://www.gymnasiumsteglitz.de,,sonstige,-,September 2019,,,,,Hauptstandort,Heesestr. 15,12169,52.45671,13.32644,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 07A05,07A05,Kolleg Schöneberg,Sekretariat@KollegSchoeneberg.de,http://www.KollegSchoeneberg.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Nürnberger Str. 63,10787,52.503451,13.341312,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
+07B02,07B02,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Steinmetzstr. 79,,,,,,,
+07B03,07B03,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Dudenstr. 35 - 37,,,,,,,
 07G01,07G01,Spreewald-Grundschule,Spreewald-Grundschule@gmx.de,http://www.spreewald-grundschule.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Pallasstr. 15,10781,52.49539,13.35693,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 07G02,07G02,Finow-Grundschule,sekretariat@finow.schule.berlin.de,http://www.finow-gs.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Welserstr. 16-22,10777,52.49823,13.34251,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 07G03,07G03,Werbellinsee-Grundschule,sekretariat@werbellinsee.schule.berlin.de,http://www.Werbellinsee-Grundschule.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Luitpoldstr. 38,10781,52.495036,13.348236,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
@@ -436,6 +475,11 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 07Y07,07Y07,Eckener-Gymnasium,info@eckener-gymnasium.de,http://www.eckener-gymnasium.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Kaiserstr. 17-21,12105,52.4451,13.38052,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 07Y08,07Y08,Ulrich-von-Hutten-Gymnasium,uvh@uvh-online.de,http://www.uvh-online.de,,VDSL 50,50,September 2019,,,,,Hauptstandort,Rehagener Str. 35-37,12307,52.38563,13.40388,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 07Y09,07Y09,Georg-Büchner-Gymnasium,sekretariat@gbgonline.de,http://www.gbgonline.de,,SVDSL 250,250,September 2019,,,,,Hauptstandort,Lichtenrader Damm 224,12305,52.39186,13.406604,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
+08B01,08B01a,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Goltzstr. 43-44,,,,,,,
+08B01,08B01b,,,,,,,,1000,1000,6. März 2021,,Filiale,Ostpreußendamm 40,,,,,,,
+08B01,08B01c,,,,,,,,50,50,6. März 2021,,Filiale,Paster-Behrens-Straße 88,,,,,,,
+08B02,08B02,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Lipschitzallee 25,,,,,,,
+08B04,08B04,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Haarlemer Str. 27,,,,,,,
 08G01,08G01,Rixdorfer Schule (Grundschule),berlin.08G01@t-online.de,http://www.die-rixdorfer.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Donaustr. 120,12043,52.484904,13.431792,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 08G02,08G02,Theodor-Storm-Schule (Grundschule),sekretariat@theodor-storm.schuel.berlin.de,http://www.Theodor-Storm-Grundschule.de,,VDSL 50,50,September 2019,,,,,Hauptstandort,Hobrechtstr. 76,12043,52.486488,13.426763,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 08G03,08G03,Hans-Fallada-Schule (Grundschule),hans-fallada-schule@gmx.de,http://www.hans-fallada-schule.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Harzer Str. 73,12059,52.483564,13.451851,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
@@ -508,6 +552,7 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 08Y05,08Y05,Leonardo-da-Vinci-Gymnasium,sekretariat@08y05.schule.berlin.de,http://Leonardo-da-Vinci-Gymnasium.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Haewererweg 35,12349,52.41623,13.42658,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
 08Y06,08Y06,Hannah-Arendt-Gymnasium,h-a-os997@t-online.de,http://www.hannah-arendt-os.de,Seit Ende November 250 Mbit/s,VDSL 50,50,September 2019,,,,,Hauptstandort,Elfriede-Kuhr-Str. 17,12355,52.40411,13.508639,MagentaZuhause via Funk,50 MBit/s,10 MBit/s,0
 09A05,09A05,Treptow-Kolleg,Schulleitung@treptow-kolleg.de,http://www.treptow-kolleg.de,,SVDSL 250,250,28. Oktober 2020,,,,,,Kiefholzstr. 274,12437,52.46818,13.48463,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
+09B03,09B03,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Helmholtzstr. 37,,,,,,,
 09G01,09G01,Bouché-Schule (Grundschule),sekretariat@bouche.schule.berlin.de,http://www.bouche-schule.de,,VDSL 100,100,28. Oktober 2020,,,,,,Bouchestr. 5-10,12435,52.49327,13.45252,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 09G03,09G03,Schule am Heidekampgraben (Grundschule),kontakt@heidekampgraben.de,http://www.grundschuleamheidekampgraben.de,,DSL 16000,16,28. Oktober 2020,,,,,,Hänselstr. 14,12437,52.46872,13.47837,MagentaZuhause S,16 MBit/s,"2,4 MBit/s",300 MBit/s
 09G04,09G04,Sonnenblumen-Schule (Grundschule),sekretariat@sonnenblumen.de,http://www.sonnenblumen-grundschule.de,,VDSL 25,25,28. Oktober 2020,,,,,,Radenzer Str. 16,12437,52.46163,13.48872,MagentaZuhause XL,175 MBit/s,50 MBit/s,300 MBit/s
@@ -560,6 +605,8 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 09Y06,09Y06,Gerhart-Hauptmann-Gymnasium,sekretariat@ghs-berlin.de,http://www.ghs-berlin.de,,VDSL 100,100,28. Oktober 2020,,,,,,Bruno-Wille-Str. 37-45,12587,52.45227,13.63269,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 09Y10,09Y10,Gebrüder-Montgolfier-Gymnasium,sekretariat@gemont.de,http://www.gemont.de,,VDSL 100,100,28. Oktober 2020,,,,,,Ellernweg 20-22,12487,52.44833,13.50379,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
 09Y11,09Y11,Emmy-Noether-Gymnasium,sekretariat@noether-gymnasium.de,http://www.noether-gymnasium.de,,VDSL 100,100,28. Oktober 2020,,,,,,Pablo-Neruda-Str. 6-7,12559,52.44275,13.588735,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
+10B01,10B01,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Marzahner Chaussee 231,,,,,,,
+10B02,10B02,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Peter-Weiss-Gasse 8,,,,,,,
 10G01,10G01,Paavo-Nurmi-Grundschule,nurmi-grundschule@gmx.de,http://www.paavo-nurmi-grundschule.de,,DSL 16000,16,September 2019,VDSL 100 IP,100,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Schorfheidestr. 42,12689,52.570866,13.576437,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 10G03,10G03,Selma-Lagerlöf-Grundschule,slagerloefg@aol.com,http://www.slgs.de,,VDSL 50,50,September 2019,SVDSL 250,250,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Wörlitzer Str. 31,12689,52.56767,13.57023,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 10G04,10G04,Falken-Grundschule,sekretariat@falken-gs.schule.berlin.de,http://www.falken-grundschule.de,,VDSL 50,50,September 2019,SVDSL 250,250,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Geraer Ring 2,12689,52.56593,13.5564,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
@@ -577,7 +624,7 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 10G18,10G18a,Pusteblume-Grundschule,sekretariat@pusteblume-Grundschule.de,http://www.pusteblume-grundschule.de,,VDSL 100,100,September 2019,VDSL 100 IP,100,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Kastanienallee 118,12627,52.54256,13.6001,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 10G18,10G18b,Pusteblume-Grundschule,,,,DSL 16000,16,September 2019,VDSL 100 IP,100,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Filiale,Kastanienallee 61,12627,52.540970,13.599913,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 10G19,10G19a,Bücherwurm-Schule am Weiher (Grundschule),schulleitung@buecherwurm.schule.berlin.de,http://www.buecherwurm-grundschule.de,,DSL 6000,6,September 2019,VDSL 25 IP,25,25. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Eilenburger Str. 1,12627,52.54068,13.62913,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
-10G19,10G19b,Bücherwurm-Schule am Weiher (Grundschule),,,,DSL 16000,16,September 2019,,,,,Filiale,Eilenburger Str. 6-8,12627,52.539784,13.630111,MagentaZuhause via Funk,50 MBit/s,10 MBit/s,0
+10G19,10G19b,Bücherwurm-Schule am Weiher (Grundschule),,,,DSL 16000,16,September 2019,Hortgebäude wird saniert,0,25. Februar 2021,Schulamt Marzahn-Hellersdorf,Filiale,Eilenburger Str. 6-8,12627,52.539784,13.630111,MagentaZuhause via Funk,50 MBit/s,10 MBit/s,0
 10G22,10G22,Kolibri-Grundschule,10G22@10G22.schule.berlin.de,http://www.kolibri-grundschule.de,,VDSL 100,100,September 2019,VDSL 100 IP,100,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Schönewalder Str. 9,12627,52.532527,13.618558,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 10G25,10G25,Grundschule am Schleipfuhl,schulleitung@schleipfuhl.schule.berlin.de,http://www.grundschule-am-schleipfuhl.de,,DSL 16000,16,September 2019,SVDSL 175,175,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Nossener Str. 85,12627,52.52913,13.6081,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
 10G26,10G26,Friedrich-Schiller-Grundschule,sekretariat@fsg.schule.berlin.de,http://friedrich-schiller-grundschule.de,,DSL 16000,16,September 2019,SVDSL 250,250,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,An der Schule 13-17,12623,52.5115,13.614782,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
@@ -593,7 +640,7 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 10K03,10K03,Kerschensteiner-Schule,k-iss@gmx.net,http://www.k-iss.de,,VDSL 100,100,September 2019,VDSL 100 IP,100,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Golliner Str. 2,12689,52.56681,13.579505,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
 10K05,10K05,Jean-Piaget-Schule,jean-piaget.oberschule@berlin.de,http://www.piaget-schule-berlin.de,,VDSL 50,50,September 2019,SVDSL 175,175,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Mittenwalder Str. 5,12629,52.54542,13.59615,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 10K06,10K06a,Georg-Klingenberg-Schule,sekretariat@klingenberg.schule.berlin.de,http://www.georg-klingenberg.schule,,VDSL 100,100,September 2019,SVDSL 250,250,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Alberichstr. 24,12683,52.49015,13.55783,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
-10K06,10K06b,Georg-Klingenberg-Schule,,,,VDSL 100,100,September 2019,,,,,2. Anschluss,,,52.490637,13.557930,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
+10K06,10K06b,Georg-Klingenberg-Schule,,,,VDSL 100,100,September 2019,Nicht für das Schülernetz genutzt,0,17. Februar 2021,Schulamt Marzahn-Hellersdorf,2. Anschluss,,,52.490637,13.557930,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 10K07,10K07,Caspar-David-Friedrich-Schule,cdf-schulsekretariat@web.de,http://cdf-oberschule.de,,DSL 6000,6,September 2019,SVDSL 250,250,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Alte Hellersdorfer Str. 7,12629,52.535223,13.591017,MagentaZuhause S,6 MBit/s,"2,4 MBit/s",300 MBit/s
 10K08,10K08,Johann-Julius-Hecker-Schule,hecker@jjh-iss.de,http://www.jjh-iss.de,,DSL 16000,16,September 2019,SVDSL 250,250,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Hohenwalder Str. 2,12689,52.56993,13.57866,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 10K09,10K09,Konrad-Wachsmann-Schule,sekretariat@konrad-wachsmann.schule.berlin.de,http://www.konrad-wachsmann-schule.de,,DSL 16000,16,September 2019,SVDSL 250,250,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Geithainer Str. 12,12627,52.529047,13.622082,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
@@ -606,11 +653,17 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 10S07,10S07,Schule am Rosenhain,Sekretariat@rosenhain.schule.berlin.de,,,DSL 16000,16,September 2019,VDSL 50 IP,50,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Klingenthaler Str. 32,12627,52.53,13.60199,MagentaZuhause via Funk,50 MBit/s,10 MBit/s,0
 10S08,10S08,Schule am Mummelsoll,schulleitung@10S08.schule.berlin.de,http://www.mummelsoll.de,,DSL 16000,16,September 2019,VDSL 50 IP,50,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Eilenburger Str. 4,12627,52.540282,13.629414,MagentaZuhause M,50 MBit/s,10 MBit/s,300 MBit/s
 10Y01,10Y01,Tagore-Gymnasium,schulleitung@tagore-gymnasium.de,http://www.tagore-gymnasium.de,,DSL 16000,16,September 2019,SVDSL 250,250,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Sella-Hasse-Str. 25,12687,52.55271,13.55658,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
-10Y02,10Y02,Otto-Nagel-Gymnasium,sekretariat@otto-nagel-gymnasium.de,http://ong.berlin,,VDSL 100,100,September 2019,2x 250 Mbit/s + 100 Mbit/s,600,8. Dezember 2021,Schule,Hauptstandort,Schulstr. 11,12683,52.511922,13.549199,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
+10Y02,10Y02a,Otto-Nagel-Gymnasium,sekretariat@otto-nagel-gymnasium.de,http://ong.berlin,,VDSL 100,100,September 2019,250 Mbit/s,250,25. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Schulstr. 11,12683,52.511922,13.549199,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
+10Y02,10Y02b,Otto-Nagel-Gymnasium,,,,,,,175 Mbit/s,175,25. Februar 2021,Schulamt Marzahn-Hellersdorf,über den Lehrmittelverein,,,52.511887,13.549971,,,,
+10Y02,10Y02c,Otto-Nagel-Gymnasium,,,,,,,100 Mbit/s,100,25. Februar 2021,Schulamt Marzahn-Hellersdorf,Telefonanschluss der Schule ,,,52.512140,13.549685,,,,
 10Y03,10Y03,Wilhelm-von-Siemens-Gymnasium,schulleitung@wvsg.schule.berlin.de,http://wivonsi.be.schule.de,,VDSL 100,100,September 2019,VDSL 100 IP,100,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Allee der Kosmonauten 134,12683,52.533571,13.551106,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 10Y08,10Y08,Sartre-Gymnasium,sekretariat@sartre-gymnasium.de,sartre-gymnasium.de,,VDSL 100,100,September 2019,SVDSL 175,175,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Kyritzer Str. 103,12629,52.54332,13.59106,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 10Y11,10Y11a,Melanchthon-Gymnasium,spieler@melanchthon-schule-berlin.de,http://www.melanchthon-schule-berlin.de,,VDSL 25,25,September 2019,VDSL 50 IP,50,17. Februar 2021,Schulamt Marzahn-Hellersdorf,Hauptstandort,Adele-Sandrock-Str. 73-75,12627,52.534367,13.618584,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
-10Y11,10Y11b,Melanchthon-Gymnasium,,,,VDSL 25,25,September 2019,,,,,2. Anschluss,,,52.534901,13.618280,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
+10Y11,10Y11b,Melanchthon-Gymnasium,,,,VDSL 25,25,September 2019,VDSL 25,25,17. Februar 2021,Schulamt Marzahn-Hellersdorf,2. Anschluss,,,52.534901,13.618280,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
+11B01,11B01,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Allee der Kosmonauten 18,,,,,,,
+11B02,11B02,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Fischerstr. 36,,,,,,,
+11B04,11B04a,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Marktstr. 2-3,,,,,,,
+11B04,11B04b,,,,,,,,1000,1000,6. März 2021,,Filiale,Fischerstr. 32,,,,,,,
 11G01,11G01,Sonnenuhr-Schule (Grundschule),11G01@11G01.schule.berlin.de,http://www.sonnenuhr-schule.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Franz-Jacob-Str. 33,10369,52.52933,13.46695,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 11G02,11G02,Schule am Roederplatz (Grundschule),sekretariat-gs-am-roederplatz@t-online.de,http://gs-am-roederplatz.de,,VDSL 50,50,September 2019,,,,,Hauptstandort,Bernhard-Bästlein-Str. 22,10367,52.52899,13.48214,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 11G03,11G03,Schule im Gutspark (Grundschule),sekretariat@gutspark.schule.berlin.de,http://www.grundschule-im-gutspark.de,,DSL 16000,16,September 2019,,,,,Hauptstandort,Josef-Orlopp-Str. 20,10367,52.52237,13.48307,MagentaZuhause XL,175 MBit/s,40 MBit/s,300 MBit/s
@@ -676,6 +729,9 @@ BSN,Building,Name,eMail,Internet,Notizen,AktuellerTarif,AktuelleBandbreite,Modif
 11Y09,11Y09c,Barnim-Gymnasium,,,,DSL 16000,16,September 2019,,,,,Filiale,,,,,,,,
 11Y10,11Y10,Manfred-von-Ardenne-Gymnasium,info@ardenne-gymnasium.de,http://www.ardenne-gymnasium.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Werneuchener Str. 27-28,13055,52.54188,13.49242,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
 11Y11,11Y11,Immanuel-Kant-Gymnasium,sekretariat@kant-gymnasium.de,http://www.kant-gymnasium.de,,VDSL 100,100,September 2019,,,,,Hauptstandort,Lückstr. 63,10317,52.501956,13.489635,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s
+12B01,12B01,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Kühleweinstr. 5,,,,,,,
+12B02,12B02,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Cyclopstr. 1-7,,,,,,,
+12B03,12B03,,,,,,,,1000,1000,6. März 2021,,Hauptstandort,Cyclopstr. 1-7,,,,,,,
 12G01,12G01,Havelmüller-Grundschule,12G01@12G01.schule.berlin.de,http://havelmueller-grundschule.de,,,100,Oktober 2020,,,,,,Namslaustr. 49-57,13507,52.578512,13.284936,MagentaZuhause L,100 MBit/s,40 MBit/s,300 MBit/s
 12G02,12G02,Grundschule am Schäfersee,schulleitung@schaefersee-grundschule.de,http://www.schaefersee-grundschule.de,,,250,Oktober 2020,,,,,,Baseler Str. 2-6,13407,52.5622,13.3554,MagentaZuhause via Funk,50 MBit/s,10 MBit/s,0
 12G03,12G03,Reginhard-Grundschule,12g03@12g03.schule.berlin.de,http://www.reginhard.cidsnet.de,,,250,Oktober 2020,,,,,,Letteallee 39-41,13409,52.563219,13.370292,MagentaZuhause XL,250 MBit/s,40 MBit/s,300 MBit/s

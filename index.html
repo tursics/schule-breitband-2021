@@ -145,18 +145,19 @@
 					<div class="content">
 						<div data-quickdata="Standort" class="bold"></div>
 						<div><span data-quickdata="Straße"></span>, <span data-quickdata="PLZ"></span> Berlin</div>
-						<div style="padding-top: .5rem" class="bold">Aktueller Anschluss:</div>
+
+						<div style="padding-top: .5rem" class="bold">Aktueller Anschluss (<span data-quickdata="Latest"></span>):</div>
+						<div><span data-quickdata="LetzterTarif"></span> (bis <span data-quickdata="LetzteBandbreite"></span> Mbit/s)</div>
+
+						<div class="bold">Früherer Anschluss (<span data-quickdata="Modified"></span>):</div>
 						<div><span data-quickdata="AktuellerTarif"></span> (bis <span data-quickdata="AktuelleBandbreite"></span> Mbit/s)</div>
-						<div style="padding-bottom: .5rem" data-quickdata="Notizen"></div>
+						<div data-quickdata="Notizen"></div>
+
 						<div class="bold">Telekom-Tarif:</div>
 						<div><span data-quickdata="TelekomTarif"></span> (bis <span data-quickdata="TelekomDownload"></span>)</div>
-						<div>Upload (bis <span data-quickdata="TelekomUpload"></span>)</div>
-						<div data-hide-if-zero="TelekomLTE">(mit LTE bis <span data-quickdata="TelekomLTE"></span>)</div>
 
-						<div data-hide-if-empty="LetzteBandbreite" style="padding-top: .5rem" class="bold">Update vom <span data-quickdata="Latest"></span>:</div>
-						<div data-hide-if-empty="LetzteBandbreite" style="padding-top: .5rem" class="bold">Aktueller Anschluss:</div>
-						<div data-hide-if-empty="LetzteBandbreite"><span data-quickdata="LetzterTarif"></span> (bis <span data-quickdata="LetzteBandbreite"></span> Mbit/s)</div>
-						<div data-hide-if-empty="LetzteBandbreite">Quelle: <span data-quickdata="LatestSource"></span></div>
+						<div style="padding-top: .5rem" class="bold">Quelle für aktuellen Anschluss:</div>
+						<div><span data-quickdata="LatestSource"></span></div>
 					</div>
 					<div class="bgDarkYellow" id="receiptClose" data-quickinfo="close">
 						Info schließen
@@ -169,6 +170,9 @@
 					<h2 class="colorWhite bgDarkGreen">Berufsschulen</h2>
 					<p>
 						Update vom 6. März 2021
+					</p>
+					<p>
+						Quelle: Da muss ich nochmal nachfragen
 					</p>
 					<p>
 						(ganz neu)
