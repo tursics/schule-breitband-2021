@@ -194,12 +194,12 @@ ddj.autostart.onDone(function() {
 });
 
 ddj.autostart.onAddMarker(function(marker, value) {
-	if (value.BSN.indexOf(currentDistrict) !== 0) {
-		if ((currentDistrict === 'bs') && (value.BSN.indexOf('B') === 2)) {
-			// hit
-		} else {
+	if (value.BSN.indexOf('B') === 2) {
+		if ((currentDistrict !== 'bs') && (currentDistrict !== '')) {
 			return false;
 		}
+	} else if (value.BSN.indexOf(currentDistrict) !== 0) {
+		return false;
 	}
 
 	var data = '';
