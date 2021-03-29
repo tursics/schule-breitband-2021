@@ -41,7 +41,8 @@ function statistics() {
 				if (value.BSN.indexOf(district) === 0) {
 					++valueCount;
 					
-					var vAktuelleBandbreite = parseInt(value.LetzteBandbreite, 10);
+					var dataToday = value.LetzteBandbreite !== '' ? value.LetzteBandbreite : value.AktuelleBandbreite;
+					var vAktuelleBandbreite = parseInt(dataToday, 10);
 					if (!isNaN(vAktuelleBandbreite)) {
 						AktuelleBandbreite += vAktuelleBandbreite;
 						++cAktuelleBandbreite;
@@ -207,12 +208,14 @@ ddj.autostart.onAddMarker(function(marker, value) {
 	}
 
 	var data = '';
+	var dataToday = value.LetzteBandbreite !== '' ? value.LetzteBandbreite : value.AktuelleBandbreite;
+
 	if (currentType === 'today') {
-		data = value.LetzteBandbreite;
+		data = dataToday;
 	} else if (currentType === 'telekom') {
 		data = value.TelekomDownload;
 	} else if (currentType === 'diff') {
-		data = Math.max(0, parseInt(value.TelekomDownload, 10) - parseInt(value.LetzteBandbreite, 10));
+		data = Math.max(0, parseInt(value.TelekomDownload, 10) - parseInt(dataToday, 10));
 	} else if (currentType === 'perHead') {
 	}
 
@@ -262,6 +265,9 @@ ddj.autostart.onAddMarker(function(marker, value) {
 			iconColor = 'black';
 			iconFace = 'fa-rocket';
 		}
+	}
+	if (value.ProofOfConcept != '') {
+		iconColor += ' awesome-marker-icon-poc';
 	}
 
 //	marker.index

@@ -41,6 +41,37 @@
 .bgDarkBlue    { background: #48a8e2; }
 .colorDarkBlue { color: #48a8e2; }
 
+.awesome-marker-icon-poc {
+	border: 3px solid #303030;
+	border-radius: 50%;
+	height: 35px !important;
+	margin-top: -37px !important;
+}
+.awesome-marker-icon-poc.awesome-marker-icon-black {
+	background: #303030;
+}
+.awesome-marker-icon-poc.awesome-marker-icon-darkgreen {
+	background: #728224;
+}
+.awesome-marker-icon-poc.awesome-marker-icon-green {
+	background: #71ae27;
+}
+.awesome-marker-icon-poc.awesome-marker-icon-lightgreen {
+	background: #b9f571;
+}
+.awesome-marker-icon-poc.awesome-marker-icon-orange {
+	background: #f19633;
+}
+.awesome-marker-icon-poc.awesome-marker-icon-lightred {
+	background: #ee8c7e;
+}
+.awesome-marker-icon-poc.awesome-marker-icon-red {
+	background: #d23d2d;
+}
+.awesome-marker-icon-poc.awesome-marker-icon-white {
+	background: #fbfbfb;
+}
+
 * {
 box-sizing: border-box;
 }
